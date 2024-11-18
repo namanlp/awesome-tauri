@@ -233,6 +233,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities.
 - [UsTaxes](https://github.com/ustaxes/ustaxes) - Free, private, open-source US tax filings.
 - [Mahalli](https://github.com/AbdelilahOu/Mahalli-tauri) - Local first inventory and invoicing management app.
+- [Wealthfolio](https://wealthfolio.app) - Simple, open-source desktop portfolio tracker that keeps your financial data safe on your computer.
 
 ### Gaming
 
